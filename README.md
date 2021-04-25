@@ -1,6 +1,6 @@
 # James Valdez' Portfolio
 
-## Making updates:
+## Making Updates
 
 ### Step 1 - STRUCTURE
 Go to `/src/data/data.js` and fill your information, they are 5 objects:
@@ -69,6 +69,10 @@ Change the color theme of the website ( choose 2 colors to create a gradient ):
 
 Go to `src/styles/abstracts/_variables.scss` and only change the values on this classes `$main-color` and `$secondary-color` to your prefered HEX color
 
-## Deployment:
+## Deployment
 
-TODO
+Run `npm run deploy` and you should see your website at `valdezjames.github.io`!
+
+## Development
+
+The development branch is called `source`. It is labeled the primary branch. The `main` branch is the hosted code-- don't touch it! It will be updated when you run the deploy command.
