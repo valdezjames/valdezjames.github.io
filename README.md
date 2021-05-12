@@ -6,7 +6,7 @@
 
 Go to `/src/data/data.js` and fill your information:
 
-**_Important Note_**: All the images must live inside the `src/images/` folder in order for Gatsby to show the images correctly.
+**_Important Note_**: All the images must live inside the `src/images/` folder.
 
 ### About Section
 

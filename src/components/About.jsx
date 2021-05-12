@@ -18,7 +18,7 @@ const About = () => {
               <img
                 className="w-100 rounded shadow-lg"
                 alt="James Valdez headshot"
-                src={`images/${img}`}
+                src={`/images/${img}`}
               />
             </Fade>
           </Col>
